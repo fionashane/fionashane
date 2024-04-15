@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 👋 Hi, I’m @fionashane
+- 👀 I’m interested in web development and data engineering
+- 🌱 I’m currently studying Software Engineering in University of South Australia and 42 Adelaide
+- 📫 How to reach me linkedin.com/in/fionashane
+
 <!--
 **fionashane/fionashane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
